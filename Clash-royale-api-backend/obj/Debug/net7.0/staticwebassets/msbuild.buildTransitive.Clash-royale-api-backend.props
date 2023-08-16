@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Clash-royale-api-backend.props" />
+</Project>
